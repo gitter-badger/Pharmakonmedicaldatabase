@@ -1,0 +1,11 @@
+// atoms!
+var atoms;
+atoms;
+var atoms = ["carbon", "nitrogen", "hydrogen", "oxygen", "sulfur", "zinc"];
+atoms[0];
+atoms[0] = "carbon";
+atoms[1] = "nitrogen";
+atoms[2] = "hydrogen";
+atoms[3] = "oxygen";
+atoms[4] = "sulfur";
+atoms[5] = "zinc";
