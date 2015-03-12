@@ -12,5 +12,10 @@ atoms[5] = "zinc";
 var hydrogenatom = 1.00794;
 var oxygenatom = 15.999;
 2 * hydrogenatom + oxygenatom;
+var randomAtoms = ["carbon", "nitrogen", "hydrogen", "oxygen", "sulfur", "zinc"];
+var randomIndex = Math.floor(Math.random() * 6);
+randomAtoms[randomIndex];
+// Pick a random atoms from randomAtoms array:
+var randomAtoms = randomAtoms[math.floor(Math.random() * 6)];
 
 
