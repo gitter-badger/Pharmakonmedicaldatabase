@@ -1,0 +1,4 @@
+// American medical association medical dictionary!
+var medicalwords;
+var medicalvocabulary;
+var medicaldefinitions;
