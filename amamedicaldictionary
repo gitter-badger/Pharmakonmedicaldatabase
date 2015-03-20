@@ -9,3 +9,6 @@ var bloodpressure = {
   "diastolic" : 80,
   "definition" : "Is the pressure on exerted by circulating blood upon the walls of the principal vital sions"
 };
+bloodpressure["definition"];
+bloodpressure.definition;
+
