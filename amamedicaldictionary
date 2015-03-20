@@ -4,3 +4,8 @@ var medicalvocabulary;
 var medicaldefinitions;
 var hypotension;
 hypotension;
+var bloodpressure = {
+  "systolic" : 120,
+  "diastolic" : 80,
+  "definition" : "Is the pressure on exerted by circulating blood upon the walls of the principal vital sions"
+};
