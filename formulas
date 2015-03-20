@@ -1,2 +1,9 @@
 var tegc;
 tegc;
+var bloodpressure;
+bloodpressure;
+var systolic;
+var diastolic;
+systolic = 120;
+diastolic = 80;
+systolic / diastolic;
