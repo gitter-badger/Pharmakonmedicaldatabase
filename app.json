@@ -1,0 +1,14 @@
+{
+  "name":"Pharmakonmedicalcloud-",
+  "description":"Embeddeddevicesoftware ",
+  "scripts":{},
+  "env":{
+    "GITHUB_USERNAME":{
+      "required":true
+    },
+    "OTHER_VAR":{
+      "required":true
+    }
+  },
+  "addons":[]
+}
